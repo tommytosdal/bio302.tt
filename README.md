@@ -1,2 +1,6 @@
-# bio302.tt
+# bio302-tt
 Intro to github
+
+
+some questions: 
+
